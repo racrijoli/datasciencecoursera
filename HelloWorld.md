@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld.md"
-author: "Raquel Jorge de Oliveira"
+author: "racrijoli"
 date: "21/02/2021"
 output: html_document
 ---
